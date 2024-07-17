@@ -1,0 +1,4 @@
+github.com/JanSzymanski/todostorelib v0.0.0-20240716150544-9a8471983039 h1:Lzs5+FbHJjOL7Ja7P9AYc8LTKAcOncv/Mh+Pf7+BdKw=
+github.com/JanSzymanski/todostorelib v0.0.0-20240716150544-9a8471983039/go.mod h1:ruUhkzjr+zjoOeH02M6X5b7vZ5F27Czewq86qYzoack=
+nhooyr.io/websocket v1.8.11 h1:f/qXNc2/3DpoSZkHt1DQu6rj4zGC8JmkkLkWss0MgN0=
+nhooyr.io/websocket v1.8.11/go.mod h1:rN9OFWIUwuxg4fR5tELlYC04bXYowCP9GX47ivo2l+c=
